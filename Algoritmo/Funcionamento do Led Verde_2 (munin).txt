@@ -1,0 +1,11 @@
+1. Ligar projeto
+2. Acender Luz Verde_2
+3. Esperar 0,2 Segundos
+4. Acender Luz Verde_2 Apaga
+5. Esperar 0,2 Segundos
+6. Loop |
+
+
+
+
+

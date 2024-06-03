@@ -1,0 +1,7 @@
+Funcionamento da Led vermelho_3
+1. Ligar projeto
+2. Acender Luz Vermelha_3
+3. Esperar 0,1 Segundos
+4. Acender Luz Vermelha_3 Apaga
+5. Esperar 0,1 Segundos
+6. Loop

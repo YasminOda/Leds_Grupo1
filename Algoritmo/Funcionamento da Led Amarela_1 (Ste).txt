@@ -1,0 +1,8 @@
+Funcionamento da Led Amarela_1
+
+1.Ligar projeto
+2.Acender Luz Amarela_1
+3.Esperar 1,5 segundos
+4.Apagar Luz Amarela_1
+5.Esperar 1,5 segundos
+6.Loop

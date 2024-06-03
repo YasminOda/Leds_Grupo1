@@ -1,0 +1,8 @@
+Funcionamento da Led Verde_1
+
+1.Ligar projeto
+2.Acender Luz Verde_1
+3.Esperar 0,5 Segundos 
+4.Acender Luz Verde_1 Apaga 
+5.Esperar 0,5 Segundos 
+6.Loop 

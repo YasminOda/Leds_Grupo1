@@ -1,0 +1,8 @@
+Funcionamrento do LED amarelo_2 (mimi)
+
+1. Ligar projeto
+2. Acender Luz Amarelo_2
+3. Esperar 0,8 Segundos
+4. Acender Luz Amarelo_2 Apaga
+5. Esperar 0,8 Segundos
+6. Loop |
